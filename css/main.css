@@ -1,0 +1,13 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 6em;
+    color: #429094;
+    margin: 0;
+    padding: 0;
+}
