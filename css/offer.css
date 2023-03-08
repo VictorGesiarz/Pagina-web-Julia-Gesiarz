@@ -1,0 +1,8 @@
+.offer {
+    align-items: start;
+    flex-direction: column;
+}
+
+.table {
+    display: flex;
+}
